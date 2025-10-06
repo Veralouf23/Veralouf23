@@ -1,6 +1,6 @@
 this is me editing the contents of my file :)
 here is my work for chris:
-pull- this updates your local repository from the remote. This should be done often\n
+pull- this updates your local repository from the remote. This should be done often/n
 fetch- this allows you to update all your remote tracking branches if you might lose network connection.\n
 push- thus updates the remote branch with your local commit changes once you finish work with them.\n
 merge- this will update the current branch with new commits on the remote tracking branch.\n
