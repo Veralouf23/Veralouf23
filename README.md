@@ -1,5 +1,6 @@
 this is me editing the contents of my file :)
 here is my work for chris:
+
 pull- this updates your local repository from the remote. This should be done often.
 
 fetch- this allows you to update all your remote tracking branches if you might lose network connection.
